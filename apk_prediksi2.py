@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import xlwt
+from io import BytesIO
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import LabelEncoder
 
