@@ -5,7 +5,7 @@ import numpy as np
 import xlwt
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import LabelEncoder
-from io import BytesIO
+
 
 
 # Mengganti judul dan ikon
